@@ -63,10 +63,10 @@ Coming Soon
 
 ## :call_me_hand: Contact Me
 
-<div class="contact">
+<div class="contact" style="display: flex ; flex-direction: row-reverse; align-items:center; ">
 
 [//]: # (IMAGE)
-  <img alt="GIF" src="./assets/pooh-think.gif" class="contact-gif">
+  <img alt="GIF" src="./assets/pooh-think.gif" class="contact-gif"  style="width: 60vw; padding: 1rem;">
 
 [//]: # (DESCRIPTION)
   
@@ -87,28 +87,6 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </div>
 </div>
 
- <!--[if !mso]><!-->
-<style>
-.contact{
-display: flex;
-flex-direction:row-reverse;
-align-items:center;
-}
-.contact-gif{
-padding:1rem;
-width:50vw;
-}
-  @media (max-width: 800px) {
-    .contact {
-      flex-direction: column;
-      align-items: start; /* Optional: Center the content when the screen is less than 600 pixels wide */
-    }
- .contact-gif {
-      width: 100%; /* Optional: Make the image take the full width of the container */
-    }
-  }
-</style>
-<!--<![endif]-->
 </div>
 
 
