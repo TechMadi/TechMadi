@@ -93,7 +93,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 .contact{
 display: flex;
 flex-direction:row-reverse;
-align-items:center
+align-items:center;
 }
 .contact-gif{
 padding:1rem;
@@ -102,7 +102,7 @@ width:50vw;
   @media (max-width: 800px) {
     .contact {
       flex-direction: column;
-      align-items: start ; /* Optional: Center the content when the screen is less than 600 pixels wide */
+      align-items: start; /* Optional: Center the content when the screen is less than 600 pixels wide */
     }
  .contact-gif {
       width: 100%; /* Optional: Make the image take the full width of the container */
