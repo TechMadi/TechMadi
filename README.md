@@ -1,19 +1,20 @@
 # Tech Madi 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="./assets/pooh-basket.gif">
+<img  width="700" alt="GIF" align="center" src="./assets/pooh-basket.gif">
 </div>
 
-</br>
-</br>
-</br>
-
+<br/>
 
 - 👋 Hi, I’m Madi
 - 💼 I'm a  Frontend Engineer at PeerCarbon
-- 👯 I’m looking to collaborate on frontend software engineering projects
+- 🌱 I’m currently learning Product Design  
+- :clap: I am open to  taking part in a dev,design project and  organizing community events
+- :balloon: Feel free to reach out for  me to give talks in your community
 
-## :art: My Stats :
+<br/>
+
+## :art: My Stats 
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
@@ -35,9 +36,9 @@
   <br/>
    <a href="https://github.com/TechMadi"><img alt="Tech Madi's Activity Graph" src=https://github-readme-activity-graph.vercel.app/graph?username=TechMadi&theme=dracula)" /></a>
   <br/>
-
 </details>
 
+<br/>
 <br/>
 
 ## :film_projector: Popular Projects
@@ -57,37 +58,55 @@ Coming Soon
 </a> 
 
 
+<br/>
+<br/>
+
 ## :call_me_hand: Contact Me
 
-<p>
- </br>
+<div class="contact">
 
-<img  alt="GIF" src="./assets/pooh-think.gif">
+[//]: # (IMAGE)
+  <img alt="GIF" src="./assets/pooh-think.gif" class="contact-gif">
 
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to  design together just ping me 😉.
-
-<a href="mailto:winnieamandela@gmail.com" >
- <img align="left" alt="Gmail" width="80"  src="./assets/icons/gmail.png" style="margin-right: 1rem;" />
-</a>
-<a href="https://www.linkedin.com/in/TechMadi/">
-  <img align="left" alt="Linkedin" width="80"  src="./assets/icons/linkedin.png" />
-</br>
-</br>
-</br>
-</a>
-
- </p>
-
-</br>
-
-
-
-## :eyes: Found Me :
+[//]: # (DESCRIPTION)
+  
+<div style="display: flex; flex-direction:column">
 
 <p>
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to design together just ping me 😉.</p>
+<div class="links">
+<a href="mailto:winnieamandela@gmail.com">
+      <img align="left" alt="Gmail" width="90" src="./assets/icons/gmail.png" style="margin-right: 1rem;" />
+    </a>
+    <a href="https://www.linkedin.com/in/TechMadi/">
+      <img align="left" alt="Linkedin" width="100" src="./assets/icons/linkedin.png" />
+    </a>
  </br>
+    </br>
+    
+</div>
+</div>
+</div>
+<style>
+.contact{
+display: flex;
+flex-direction:row-reverse;
+align-items:center
+}
+.contact-gif{
+padding:1rem;
+width:50vw;
+}
+  @media (max-width: 800px) {
+    .contact {
+      flex-direction: column;
+      align-items: start ; /* Optional: Center the content when the screen is less than 600 pixels wide */
+    }
+ .contact-gif {
+      width: 100%; /* Optional: Make the image take the full width of the container */
+    }
+  }
+</style>
 
-<img  alt="GIF" src="./assets/pooh-look.gif">
 
- </p>
 
