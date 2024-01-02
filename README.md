@@ -86,7 +86,6 @@ If you want to reach out to me about anything, be it some doubt or just to hango
     
 </div>
 </div>
-</div>
 
  <!--[if !mso]><!-->
 <style>
@@ -110,5 +109,8 @@ width:50vw;
   }
 </style>
 <!--<![endif]-->
+</div>
+
+
 
 
